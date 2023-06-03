@@ -21,3 +21,16 @@ body {
      padding: 0;
      
    }
+
+   h2 {
+     color: #393482;
+    }
+ 
+    .link10 {
+     border: 0.0625em solid white; 
+     border-radius: 0.625em;
+      padding: 0.312em 0.625em;
+       position:  absolute;
+        right: 1.25em ;
+         
+    }
