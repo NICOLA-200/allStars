@@ -10,3 +10,14 @@ body {
      padding-top: 1.25em;
      text-align: center;
    }
+
+   .header1 h1 {
+     margin: 0;
+
+
+   }
+   .head2 {
+     display: block;
+     padding: 0;
+     
+   }
