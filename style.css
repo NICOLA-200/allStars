@@ -3,3 +3,10 @@ body {
      background-color: #e5e4f1;
      
    }
+
+   .header1 {
+     background-color: #292972;
+     color: #fff;
+     padding-top: 1.25em;
+     text-align: center;
+   }
