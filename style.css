@@ -34,3 +34,16 @@ body {
         right: 1.25em ;
          
     }
+
+    .nav1 {
+      display: block;
+      margin-top: 1.25em;
+      background-color: #393482;
+ 
+ padding:  1.25em;
+    }
+ 
+    .log1:hover {
+     text-decoration: none !important;
+ 
+    }
