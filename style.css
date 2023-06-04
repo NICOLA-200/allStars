@@ -94,3 +94,22 @@ body {
     padding: 3.75em;
     text-align: center;
   }
+
+  .center {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.875em;
+    border: 0.125em solid white;
+    background-color:rgb(75, 82, 180) ;
+    border-radius: 1.25em;
+    opacity: 0.9;
+    display: fixed;
+    position: fixed;
+    padding: 1%;
+   
+  
+  
+    
+  }
