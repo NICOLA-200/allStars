@@ -80,3 +80,17 @@ body {
    main {
      padding: 1.25em;
    }
+
+   section  {
+    background-color: #fff;
+    color: #333;
+    padding: 1.25em ;
+    margin-bottom:  1.25em;
+  }
+  
+  footer {
+    background-color: #292c7b;
+    color: #fff;
+    padding: 3.75em;
+    text-align: center;
+  }
