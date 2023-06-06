@@ -129,7 +129,10 @@ body {
     
     
 
+
   }
+
+  
 
 
     
@@ -146,4 +149,19 @@ body {
 
   h2 {
    color: #393482;
+  }
+
+  .nav2 {
+    display: block;
+    position: relative;
+    justify-content: center;
+    
+  color: white;
+    background-color: #393482;
+
+   padding: 1.25em;
+
+  }
+  .head4 {
+    margin: 0px;
   }
