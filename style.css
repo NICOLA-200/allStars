@@ -165,3 +165,25 @@ body {
   .head4 {
     margin: 0px;
   }
+
+  .nav2 ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+  }
+  
+  .nav2 li {
+    display: inline-block;
+    margin-right: 1.25em;
+  }
+
+  .nav2 a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .link3:hover {
+    color: #968be9;
+
+  }
