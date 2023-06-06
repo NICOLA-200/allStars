@@ -271,3 +271,10 @@ body {
       padding: 0.625em;
        background-color: rgb(40, 40, 209);
   }
+
+  input[type="text"], input[type="password"],input[type="email"] {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid gray;
+  }
