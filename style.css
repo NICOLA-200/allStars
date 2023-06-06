@@ -252,3 +252,22 @@ body {
       font-weight: bold;
       margin-bottom: 0.5rem;
     }
+
+    
+  .logdiv {
+    margin: 30px 70px; 
+    border-radius:10px ; 
+    text-decoration: none;
+    color: white; 
+    padding: 0.625em;
+    background-color: rgb(42, 42, 228);
+  }
+
+  .logdiv1 {
+    margin: 30px 70px;
+     border-radius:10px ;
+      text-decoration: none;
+      color: white;
+      padding: 0.625em;
+       background-color: rgb(40, 40, 209);
+  }
