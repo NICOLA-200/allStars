@@ -218,3 +218,20 @@ body {
     position: fixed;
     padding:10px 0.625em;
    }
+
+   .divl {
+    background-color: white;
+    margin-top: 3%;
+    left: 35%;
+    position: relative;
+    
+    width: 350px;
+    height: 500px;
+    text-align: center;
+    padding: 0.625em;
+    position: relative;
+    padding-top: 1.25em;
+    
+    border-radius: 0.625em;
+  
+   } 
