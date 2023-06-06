@@ -197,3 +197,24 @@ body {
   aside {
     background-color: white;
   }
+
+  .img20 {
+    height: 300px;
+     border-radius: 0.3125em;
+      margin: 0.3125em;
+   }
+
+   .stato {
+
+    top: 25.6%;
+    left: 71%;
+   
+    width: 350px;
+    border: 2px solid white;
+    background-color:rgb(255, 255, 255) ;
+    
+    opacity: 0.9;
+    display: fixed;
+    position: fixed;
+    padding:10px 0.625em;
+   }
