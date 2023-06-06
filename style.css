@@ -187,3 +187,13 @@ body {
     color: #968be9;
 
   }
+
+  .ulsecond a:hover {
+    color: #968be9;
+    text-decoration: underline 2px ;
+
+  }
+
+  aside {
+    background-color: white;
+  }
