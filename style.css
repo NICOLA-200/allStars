@@ -235,3 +235,20 @@ body {
     border-radius: 0.625em;
   
    } 
+
+   .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+  }
+  
+  .head30 {
+    line-height: 2;
+     text-align: center;
+      color: rgb(65, 65, 241);
+  }
+    
+    label {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
