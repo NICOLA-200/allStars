@@ -311,3 +311,13 @@ body {
 
   
 }
+
+.ball2 {
+  height: 70px;
+  animation-name: ball2;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  position: absolute;
+  animation-timing-function: ease ;
+  animation-delay: .4s;
+}
