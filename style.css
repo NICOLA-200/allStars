@@ -321,3 +321,25 @@ body {
   animation-timing-function: ease ;
   animation-delay: .4s;
 }
+
+@keyframes ball2 {
+
+  0% {left:47%; top:27%;}
+  50% {left: 47%; top:63%;}
+  100% {left: 47%; top:27%;}
+
+
+}
+
+
+
+
+.ball1 {
+height: 70px;
+animation-name: ball1;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+position: absolute;
+animation-timing-function: ease ;
+animation-delay: 0.2s;
+}
