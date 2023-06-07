@@ -287,3 +287,18 @@ body {
     border: none;
     cursor: pointer;
   }
+
+
+  h1 {
+    font-size: 100vh;
+  }
+  /*animation page*/
+
+  .ball3 {
+    height: 70px;
+    animation-name: ball3;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    position: absolute;
+    animation-timing-function: ease ;
+  }
