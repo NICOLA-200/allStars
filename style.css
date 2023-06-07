@@ -302,3 +302,12 @@ body {
     position: absolute;
     animation-timing-function: ease ;
   }
+
+  @keyframes ball3 {
+
+    0% {left:55%; top:30%;}
+    50% {left: 40%; top:60%;}
+    100% {left: 55%; top:30%;}
+
+  
+}
