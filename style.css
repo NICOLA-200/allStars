@@ -373,3 +373,8 @@ animation-delay: 0.2s;
   left:15%;
   top: 80%;
 }
+
+@keyframes rotate {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
