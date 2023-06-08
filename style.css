@@ -343,3 +343,12 @@ position: absolute;
 animation-timing-function: ease ;
 animation-delay: 0.2s;
 }
+
+@keyframes ball1 {
+
+  0% {left:40%; top:30%;}
+  50% {left: 55%; top:60%;}
+  100% {left: 40%; top:30%;}
+
+
+}
