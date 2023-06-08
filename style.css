@@ -415,3 +415,16 @@ animation-delay: 0.2s;
       border: 1px solid rgb(77, 77, 221);
       border-radius: 0.625em;
   }
+
+  .link11:hover {
+    font-weight: 800;
+    color: #171ea3;
+    background-color: white;
+    
+  }
+  
+  
+  .head11 {
+    text-align: center;
+    color: white;
+  }
