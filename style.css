@@ -398,3 +398,20 @@ animation-delay: 0.2s;
  right:15%;
   top: 80%;
 }
+
+@keyframes rotate {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+  }
+  
+  .link11 {
+      color:white;
+      right: 47%; 
+      top: 85%;
+      position: absolute;
+       text-decoration: none;
+      font-size: 30px;
+      padding: 0.3125em;
+      border: 1px solid rgb(77, 77, 221);
+      border-radius: 0.625em;
+  }
