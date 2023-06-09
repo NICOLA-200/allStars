@@ -459,3 +459,20 @@ animation-delay: 0.2s;
   background-size: cover ;
   animation-timing-function: linear;
 }
+
+@keyframes bod {
+  0%{background-image: url(ph1.png);
+    }
+  20%{background-image: url(ph2.png);
+   }
+  45%{background-image: url(ph3.png);
+    }
+  60%{background-image: url(ph4.png);
+   }
+  77%{background-image: url(ph5.png);
+   }
+   100%{background-image: url(php6.png);
+   }
+  
+  
+}
