@@ -450,3 +450,12 @@ animation-delay: 0.2s;
     background-position: 50vw 0.625em;
   }
 }
+
+.backgr {
+  animation-name: bod;
+  animation-duration: 8s;
+  animation-iteration-count: infinite;
+  background-repeat: no-repeat;
+  background-size: cover ;
+  animation-timing-function: linear;
+}
