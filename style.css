@@ -441,3 +441,12 @@ animation-delay: 0.2s;
   transition: all 0.4s linear;
   margin-bottom: 0px;
 }
+
+@keyframes wave {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 50vw 0.625em;
+  }
+}
